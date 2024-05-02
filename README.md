@@ -1,0 +1,3 @@
+Python use in command prompt. This is just a fun example using a few coded pranks.
+
+Directions for use...
